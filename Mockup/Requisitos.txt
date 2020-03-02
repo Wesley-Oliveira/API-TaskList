@@ -1,0 +1,5 @@
+Usuário: Cadastrar nome, email e senha. Alterar seu email, senha ou até o próprio nome quando desejado. 
+
+Realizar o login com email e senha.
+
+Tarefas: Cadastrar, concluir e excluir.
